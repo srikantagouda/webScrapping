@@ -1,0 +1,2 @@
+example@gmail.com, app-password-here
+example@icloud.com, app-specific-password-here
